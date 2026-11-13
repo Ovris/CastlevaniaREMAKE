@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/BP_BasicInterface.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/EnemyAI/BP_EnemyMelee.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/WeaponWhip/BP_Whip.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/UI/WBP_BasicUI.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/EnemyAI/M_EnemyColor.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/BP_AttackHandler.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/CastlevaniaREMAKE/Yana/BPI_AttackHandler.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0Z/4ZVUXMZV5U3JZCEL9ZUO08.uasset",
+				"D:/CastlevaniaREMAKE/CastlevaniaREMAKE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
