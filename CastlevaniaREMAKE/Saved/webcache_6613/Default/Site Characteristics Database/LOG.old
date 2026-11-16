@@ -1,2 +1,5 @@
-2026/11/13-09:44:12.439 1388 Creating DB D:\CastlevaniaREMAKE\CastlevaniaREMAKE\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2026/11/13-09:44:13.014 1388 Reusing MANIFEST D:\CastlevaniaREMAKE\CastlevaniaREMAKE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/11/15-19:12:59.710 3084 Log #3: 3 ops saved to Table #4 OK
+2026/11/15-19:12:59.731 3084 Archiving C:\GITHUB STUFF\CastlevaniaREMAKE\CastlevaniaREMAKE\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/11/15-19:12:59.731 3084 Table #4: 3 entries OK
+2026/11/15-19:12:59.739 3084 Archiving C:\GITHUB STUFF\CastlevaniaREMAKE\CastlevaniaREMAKE\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/11/15-19:12:59.750 3084 **** Repaired leveldb C:\GITHUB STUFF\CastlevaniaREMAKE\CastlevaniaREMAKE\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
